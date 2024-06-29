@@ -1,5 +1,5 @@
 # Predictions on the stock market with LSTM networks (neural networks) in Python
-> The network and context descriptions were taken from ChatGPT and summarized.
+> :loudspeaker: The network and context descriptions were taken from ChatGPT and summarized.
 
 ## 1. Resume
 In finance, predicting stocks and revenues is essential for investors, enabling informed decisions and better risk management. Traditionally, methods like regressions and annual variance are used. This project focuses on the use of LSTM (Long Short-Term Memory) neural networks, which are advanced RNNs capable of handling long-term dependencies in sequential data.
