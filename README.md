@@ -7,7 +7,7 @@ In finance, predicting stocks and revenues is essential for investors, enabling 
 The objective is to develop an LSTM model to analyze historical stock price data and predict its future behavior. This will provide advanced tools for decision-making, improving the accuracy of financial predictions and optimizing investment management.
 
 ## 2. Arquitecture diagram
-![rr](https://file.notion.so/f/f/345cf846-20d3-4604-9e34-b4bdca594463/806d79a3-3095-4419-b4f7-8b70ea062daa/Untitled.png?id=ad03c71a-96e6-4d54-88f2-038e9ba5d65a&table=block&spaceId=345cf846-20d3-4604-9e34-b4bdca594463&expirationTimestamp=1719612000000&signature=Aw9oj7zsyA3j6CITp3gI1keSKsSLlLs4En0aozoPMdc&downloadName=Untitled.png)
+![rr](https://raw.githubusercontent.com/NicolasZFr/nicolas-portfolio/main/images/lstm_diagram.png)
 
 ## 3. Code fragments
 Importing necessary libraries  
